@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @protik-on-coder
+- 👋 Hi, I’m @protik datta
 - 👀 I’m interested in gaming 
 - 🌱 I’m currently learning python program
 - 😄 Pronouns: learning python programing 
